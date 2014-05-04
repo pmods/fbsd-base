@@ -1,4 +1,4 @@
-class workstation (
+class workstation {
 
     #Default Path
     $defpath   = "/bin:/usr/bin:/sbin:/usr/sbin:/usr/local/bin"
