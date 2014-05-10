@@ -53,7 +53,6 @@ class workstation {
                 'rexima',
                 'robotfindskitten',
                 'ruby',
-                'ruby19',
                 'ruby20',
                 'rxvt-unicode',
                 'scala',
