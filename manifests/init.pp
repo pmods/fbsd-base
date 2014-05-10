@@ -56,7 +56,6 @@ class workstation {
                 'ruby19',
                 'ruby20',
                 'rxvt-unicode',
-                'samba36',
                 'scala',
                 'slim',
                 'slim-themes',
