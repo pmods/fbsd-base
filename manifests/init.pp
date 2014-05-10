@@ -60,7 +60,6 @@ class workstation {
                 'scala',
                 'slim',
                 'slim-themes',
-                'swt',
                 'syslinux',
                 'terminus-font',
                 'thunderbird',
