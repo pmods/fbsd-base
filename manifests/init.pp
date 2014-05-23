@@ -6,6 +6,7 @@ class workstation {
     case $::operatingsystem {
         freebsd: {
             $pkg_dep = [
+                'nmap',
                 'ImageMagick',
                 'acroread9',
                 'apache-ant',
