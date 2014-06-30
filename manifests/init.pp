@@ -1,4 +1,4 @@
-class workstation {
+class fbsd-base {
 
     #Default Path
     $defpath   = "/bin:/usr/bin:/sbin:/usr/sbin:/usr/local/bin"
