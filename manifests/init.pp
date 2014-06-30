@@ -8,7 +8,6 @@ class fbsd-base {
             $pkg_dep = [
                 'nmap',
                 'ImageMagick',
-                'acroread9',
                 'apache-ant',
                 'bash',
                 'bind-tools',
@@ -39,7 +38,6 @@ class fbsd-base {
                 'i386-wine',
                 'icedtea-web',
                 'links',
-                'linux-eagle5',
                 'lwjgl',
                 'mplayer',
                 'musicpc',
@@ -80,6 +78,11 @@ class fbsd-base {
                 'unrar'
             ]
             $pkg_provider = pkgng
+
+            $ports = [
+                'linux-eagle5',
+                'acroread9'
+            ]
         }
     }
 
